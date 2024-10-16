@@ -1,0 +1,7 @@
+C:\cssample\CsDemo\CsDemo\bin\Debug\CsDemo.exe.config
+C:\cssample\CsDemo\CsDemo\bin\Debug\CsDemo.exe
+C:\cssample\CsDemo\CsDemo\bin\Debug\CsDemo.pdb
+C:\cssample\CsDemo\CsDemo\obj\Debug\CsDemo.csproj.AssemblyReference.cache
+C:\cssample\CsDemo\CsDemo\obj\Debug\CsDemo.csproj.CoreCompileInputs.cache
+C:\cssample\CsDemo\CsDemo\obj\Debug\CsDemo.exe
+C:\cssample\CsDemo\CsDemo\obj\Debug\CsDemo.pdb
